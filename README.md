@@ -13,8 +13,7 @@ A simple and responsive Todo List application built using **HTML, CSS, and JavaS
 ## 📸 Preview
 
 <p align="center">
-  <img src="unchecked.png" alt="Todo App" width="350">
-  <img src="checked.png" alt="Completed Task" width="350">
+  <img src="todo.png" alt="Todo App" width="350">
 </p>
 
 ---
